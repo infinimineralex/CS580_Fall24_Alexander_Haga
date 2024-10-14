@@ -32,9 +32,10 @@ plt.ylabel('Dependent Variable (Y)')
 plt.title('Linear Regression using Covariance Approach')
 plt.legend()
 
-# Display the plot
-plt.show()
-
 # Displaying the calculated slope and intercept
 print(f'Intercept (b0): {b0}')
 print(f'Slope (b1): {b1}')
+
+# Display the plot
+plt.show()
+
