@@ -1,6 +1,6 @@
 ## Requirements
 
-To install the required dependencies, run:
+To install the required dependencies, clone the repository, navigate to the repo folder and run:
 
 ```bash
 pip install -r requirements.txt
