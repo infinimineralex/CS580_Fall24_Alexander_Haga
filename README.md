@@ -1,3 +1,9 @@
-Hello!
+## Hello!
 
-Assignment 3 is on the Assignment_3 branch.
+To run this Jupyter Notebook, run: 
+
+```bash
+jupyter notebook
+```
+
+Open the page in your web browser, and have fun looking through the graphs!
